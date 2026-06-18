@@ -56,13 +56,6 @@ I am a performance-driven **Frontend Developer** and former Startup CTO with ove
 
 ---
 
-### 📈 GitHub Analytics
-
-![Sarang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SarangLakade&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarangLakade&layout=compact&theme=radical)
-
----
-
 ### 📫 Let's Connect!
 - **Portfolio:** [sarang-lakade.vercel.app](https://sarang-lakade.vercel.app)
 - **LinkedIn:** [linkedin.com/in/sarang-lakade/](https://linkedin.com/in/sarang-lakade/)
