@@ -59,4 +59,4 @@ I am a performance-driven **Frontend Developer** and former Startup CTO with ove
 ### 📫 Let's Connect!
 - **Portfolio:** [sarang-lakade.vercel.app](https://sarang-lakade.vercel.app)
 - **LinkedIn:** [linkedin.com/in/sarang-lakade/](https://linkedin.com/in/sarang-lakade/)
-- **Email:** saranglakade@gmail.com
+- **Email:** saranglakade.frd@gmail.com
